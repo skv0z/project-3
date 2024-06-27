@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/60/f2/be/60f2be6623b63f6dca49dbee3ab21635.jpg);
+    background-repeat: no-repeat;
+    background-color: blueviolet;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent {
+    border: solid;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    border-color: antiquewhite;
+    border-radius: 10px;
+    height: 300px;
+    margin-left: 150px;
+}
+
+form {
+    margin-top: 40px;
+}
+
+input {
+    margin: 5px;
+    background-color: transparent;
+    border-radius: 10px;
+    border: solid white;
+}
+
+a {
+    margin-left: 50px;
+    color: aliceblue;
+}
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+button {
+    margin-top: 30px;
+    width: 100%;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+
+}
